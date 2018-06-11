@@ -1,5 +1,7 @@
 #!/usr/local/bin/python3
 
+# https://www.hackerrank.com/challenges/the-power-sum
+
 import math
 import os
 import random

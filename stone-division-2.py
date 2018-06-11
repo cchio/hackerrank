@@ -1,5 +1,7 @@
 #!/bin/python3
 
+# https://www.hackerrank.com/challenges/stone-division-2/problem
+
 import math
 import os
 import random

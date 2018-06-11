@@ -1,5 +1,7 @@
 #!/bin/python3
 
+# https://www.hackerrank.com/challenges/password-cracker
+
 ip ="""10
 10
 the cake is a lie thec ak ei sal ie
